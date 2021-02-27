@@ -1,10 +1,3 @@
-How to Execute the API solution and the react front-end app
-
-Summary: This API is used with the front-end project made in react js. 
-
-1 - Do the download pf this API.
-2 - Run the DB Update to create the Entity DB locally.
-3 - Do the download of the react project "react-app-donation" at React-Projects repository.
-
-The API should be executed using Visual Studio 2013 or a later version.
-The react project should be executed using VS Code.
+All of these projects were done using C # as the language and most of them using .Net Core.
+For some, it may be necessary to execute DB commands to create a local DB.
+The idea is to share all of these projects to help other colleagues with some sample code.
