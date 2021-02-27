@@ -1,4 +1,4 @@
-# .Net-Apps
+How to Execute the API solution and the react front-end app
 
 Summary: This API is used with the front-end project made in react js. 
 
